@@ -34,3 +34,11 @@ Each project is stored in a separate branch
 1. use useEffect.
 2. getting a list of exchange rates from a separate API.
 3. convert one currency to another and vice versa (no backend).
+
+## Photos
+
+1. filter collections using categories.
+2. collection search.
+3. pagination.
+4. receiving, pagination through the backend.
+5. display information about downloading content.

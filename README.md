@@ -28,3 +28,9 @@ Each project is stored in a separate branch
 6. spread operator.
 7. adding/removing users from the array of invites.
 8. display information about downloading content.
+
+## Currency-conventor
+
+1. use useEffect.
+2. getting a list of exchange rates from a separate API.
+3. convert one currency to another and vice versa (no backend).
